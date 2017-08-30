@@ -41,7 +41,8 @@ defmodule Sling.Mixfile do
       {:cowboy, "~> 1.0"},
       {:comeonin, "~> 2.5"},
       {:bcrypt_elixir, "~> 1.0"},
-      {:guardian, "~> 0.14.5"}
+      {:guardian, "~> 0.14.5"},
+      {:cors_plug, "~> 1.2"}
     ]
   end
 
